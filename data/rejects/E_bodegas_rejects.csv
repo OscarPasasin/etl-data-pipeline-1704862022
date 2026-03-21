@@ -1,0 +1,3 @@
+id_bodega,bodega,ubicacion,capacidad_m2,motivo_rechazo
+,Sur 10,San Salvador,299,id_bodega_vacio
+,Norte 14,San Salvador,1635,id_bodega_vacio
