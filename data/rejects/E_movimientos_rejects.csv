@@ -1,0 +1,15 @@
+id_movimiento,id_inventario,tipo_movimiento,fecha,cantidad_movimiento,motivo_rechazo
+MOV9019,INV5132,salida,,32,fecha_vacio
+MOV9022,INV9999,traslado,2025-03-18,,cantidad_movimiento_vacio
+MOV9048,INV5088,ajuste,,19,fecha_vacio
+MOV9060,,entrada ,2024-07-17,38,id_inventario_vacio
+MOV9061,,salida,2024-10-01,6,id_inventario_vacio
+MOV9087,,ajuste,2025-01-04,50,id_inventario_vacio
+MOV9099,INV5151,traslado,,13,fecha_vacio
+MOV9106,INV5074,traslado,,58,fecha_vacio
+MOV9110,,ajuste,2024-09-28,,"id_inventario_vacio,cantidad_movimiento_vacio"
+MOV9117,INV5017,salida,2024-11-01,,cantidad_movimiento_vacio
+MOV9172,,ajuste,2024-11-06,51,id_inventario_vacio
+MOV9200,,ajuste,2024-02-08,52,id_inventario_vacio
+MOV9201,INV5102,traslado,,58 ,fecha_vacio
+MOV9217,INV5107,entrada,2024-10-16,,cantidad_movimiento_vacio
